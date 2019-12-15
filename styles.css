@@ -214,12 +214,18 @@ hr {
 /* Chef Section */
 .chef .card-body h1 {
 	font-size: 25px;
+	letter-spacing: 1px;
+	font-family: "Teko", sans-serif;
+	font-weight: 300;
 }
 
+.chef .card-body h6 {
+	font-size: 16px;
+	color: #c69963;
+}
 /* Footer Section */
 footer {
 	background-color: #101d2c;
-	color: white;
 }
 /* Media Screens */
 @media (min-width: 576px) {
